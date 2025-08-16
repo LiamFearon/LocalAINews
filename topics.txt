@@ -1,0 +1,99 @@
+OpenAI
+ChatGPT
+GPT-4
+Anthropic
+Claude
+Google DeepMind
+Gemini
+Sora
+Midjourney
+DALL·E
+Stable Diffusion
+Runway ML
+Hugging Face
+Transformer models
+BERT
+LLaMA
+Meta AI
+Mistral AI
+Cohere
+Perplexity AI
+Character.AI
+EleutherAI
+Falcon LLM
+AWS Bedrock
+Azure OpenAI Service
+Google Cloud AI
+TensorFlow
+PyTorch
+JAX
+Keras
+LangChain
+Haystack
+Rasa
+AutoGPT
+BabyAGI
+Ollama
+Weights & Biases
+Comet ML
+NVIDIA AI
+NVIDIA TensorRT
+CUDA
+H100 GPUs
+A100 GPUs
+Tesla Dojo
+IBM Watson
+IBM Granite
+Amazon Bedrock
+Anthropic Constitutional AI
+OpenAI Embeddings
+OpenAI Whisper
+OpenAI Codex
+GitHub Copilot
+Microsoft Copilot
+Copilot for Microsoft 365
+Salesforce Einstein
+Adobe Firefly
+Canva Magic Studio
+Notion AI
+Jasper AI
+Writer.com
+Synthesia
+Descript AI
+Pika Labs
+Wonder Dynamics
+DeepMind AlphaFold
+DeepMind AlphaStar
+Waymo
+Cruise
+Tesla Autopilot
+Adept AI
+Replit Ghostwriter
+Inflection AI
+Pi by Inflection
+Bloom LLM
+MosaicML
+Databricks AI
+Cerebras Systems
+Cerebras Wafer Scale Engine
+Lambda Labs
+Graphcore IPU
+SiPearl
+Groq
+Stability AI
+Luma AI
+V7 Labs
+Scale AI
+Labelbox
+SuperAnnotate
+Truera
+OctoAI
+Aleph Alpha
+LightOn
+Minerva AI
+Pinecone Vector Database
+Chroma Vector DB
+Milvus
+Vespa Engine
+Redis Vector Search
+Weaviate
